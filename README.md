@@ -1,1 +1,1 @@
-# Informasi pada Repositori ini terbagi pada branch-branch.
+# Informasi pembelajaran terdapat pada branch.
