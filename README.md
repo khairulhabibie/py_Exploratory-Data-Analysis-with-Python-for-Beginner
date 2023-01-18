@@ -1,1 +1,1 @@
-# for more information you can check the branch!
+# Informasi pada Repositori ini terbagi pada branch-branch.
